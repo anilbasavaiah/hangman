@@ -1,5 +1,5 @@
 # Game Description
-This is a Hangman game with a change, where users can select option to play the instead of random english word. User can select options fruits or animals.
+This is a Hangman game with a change, where users get to choose the category of words (ex: fruits or animals) before getting the random word.
 No UI implemented it is just a working code.
 
 ## Files
